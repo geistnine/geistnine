@@ -2,7 +2,7 @@
 
 Just a dude having fun tricking electrocuted rocks into thinking and doing stuff, to be honest.
 
-🔭 I’m currently working on: AWS Solutions Architect Associate certification.
+🔭 I’m currently working on: Personal website.
 
 🌱 I’m currently learning: OOP, C#, and .NET CORE. Unity later?!
 
